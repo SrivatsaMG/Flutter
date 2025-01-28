@@ -4,8 +4,8 @@
 
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/SrivatsaMG/Flutter.git>
+ 
 2. **Install Dependencies**:
    ```sh
    flutter pub get
